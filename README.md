@@ -1,6 +1,6 @@
 # Decentralized Finance Application
 
-This project is a Decentralized Finance (DeFi) web application built using the MERN stack (MongoDB, Express.js, React, Node.js) along with Docker for containerization. The platform provides a seamless way for users to interact with DeFi services, such as viewing live cryptocurrency data and managing their portfolio with watchlist functionality.
+This project is a Decentralized Finance web application built using the MERN stack (MongoDB, Express.js, React, Node.js). The platform provides a seamless way for users to interact with DeFi services, such as viewing live cryptocurrency data and managing their portfolio with watchlist functionality.
 
 ## Live Demo
 You can try out the application by visiting the live demo:
